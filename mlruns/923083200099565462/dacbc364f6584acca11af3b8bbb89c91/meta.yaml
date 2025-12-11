@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923083200099565462/dacbc364f6584acca11af3b8bbb89c91/artifacts
+end_time: 1765429144280
+entry_point_name: ''
+experiment_id: '923083200099565462'
+lifecycle_stage: active
+run_id: dacbc364f6584acca11af3b8bbb89c91
+run_name: training_20251211_040748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765426068651
+status: 3
+tags: []
+user_id: runner
